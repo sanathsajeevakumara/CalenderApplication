@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Calender Application</string>
+    <string name="month">September</string>
 </resources>
